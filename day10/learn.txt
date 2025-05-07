@@ -1,0 +1,79 @@
+
+### 📈 1. **Line Plot**
+**Used for:**  
+- Showing trends over time (e.g., stock prices, temperature changes).
+- Comparing multiple data series (e.g., sales of products over months).
+  
+**Example:** Monthly rainfall across a year.
+
+---
+
+### 📊 2. **Bar Chart**
+**Used for:**  
+- Comparing quantities across categories (e.g., revenue by department).
+- Visualizing discrete data.
+  
+**Example:** Number of students in different majors.
+
+---
+
+### ⚫ 3. **Scatter Plot**
+**Used for:**  
+- Showing relationship between two continuous variables.
+- Detecting correlations and patterns.
+  
+**Example:** Height vs. weight of individuals.
+
+---
+
+### 🧱 4. **Histogram**
+**Used for:**  
+- Understanding distribution of continuous data.
+- Checking for skewness, outliers, or normal distribution.
+  
+**Example:** Distribution of exam scores among students.
+
+---
+
+### 🍕 5. **Pie Chart**
+**Used for:**  
+- Showing proportions of a whole.
+- Best for visualizing simple composition of data.
+  
+**Example:** Market share of different smartphone brands.
+
+---
+
+### 📦 6. **Box Plot (Box-and-Whisker)**
+**Used for:**  
+- Summarizing data spread: median, quartiles, outliers.
+- Comparing distributions between multiple groups.
+  
+**Example:** Salary distribution by gender or department.
+
+---
+
+### 🔥 7. **Heatmap**
+**Used for:**  
+- Showing magnitude of values across a 2D grid.
+- Popular in correlation matrices, feature importance, etc.
+  
+**Example:** Correlation matrix in data science.
+
+---
+
+### 🌀 8. **Contour Plot**
+**Used for:**  
+- Representing 3D surface on a 2D plot.
+- Visualizing gradients or levels in mathematical functions.
+  
+**Example:** Elevation on a geographic map.
+
+---
+
+### 🧊 9. **3D Plot**
+**Used for:**  
+- Visualizing three-dimensional data.
+- Understanding spatial relationships.
+  
+**Example:** 3D surface of terrain, or clusters in 3D space in ML.

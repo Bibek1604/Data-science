@@ -1,0 +1,11 @@
+1.seaborn is data visualization library based on matplotlib
+helps to create most common plots easily
+
+Seaborn is used to 1> Gather Data 2>Clean Data 4> Explore Data 4>Analyze Data 5> Visualize Data
+
+seaborn is easy touse .
+
+///https://s3.amazonaws.com/assets.datacamp.com/production/course_15192/slides/chapter1.pdf
+
+
+
