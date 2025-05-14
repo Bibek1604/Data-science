@@ -17,8 +17,7 @@ or generating new samples using techniques such as SMOTE (Synthetic Minority Ove
 * **For Large Imbalanced Datasets:** Use **Random Undersampling** (if the majority class is excessively large).
 * **For Small Datasets:** Use **Random Oversampling** (if the minority class is small and overfitting is not an issue).
 * **For Moderate Datasets with High Overlap:** Use **SMOTE** (generates realistic synthetic data, better for model generalization).
-
-### **My Recommendation:**
+ **My Recommendation:**
 
 * Always start with **SMOTE** because it provides a balance without simply duplicating data.
 * If you experience noise or poor model performance, try **Random Oversampling** or a combination of **SMOTE + Undersampling**.
