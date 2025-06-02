@@ -1,0 +1,28 @@
+# Vector Transposition
+
+row Vector
+A row vector is a 1 x n matrix, which means it has one row and n columns. It can be represented as:
+
+v = [v1, v2, ..., vn]
+
+
+Column Vector 
+
+A column vector is a n x 1 matrix, which means it has n rows and one column. It can be represented as:
+v = [v1]
+        [v2]
+        ...
+        [vn]
+
+
+
+
+making natura arrya using numpy
+
+n=np.arrya([100, 20,69])
+print(n)
+type(n)
+n.shape
+n[1]
+
+vector transpose
